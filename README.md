@@ -1,4 +1,4 @@
-# 🛠️ Dotfiles — Personal Configs
+# 🛠️ Scripts — Useful Bash Script
 
 My personal configuration files for a clean and consistent development environment.
 ---
@@ -22,6 +22,6 @@ My personal configuration files for a clean and consistent development environme
 ### 1. Clone This Repo
 
 ```bash
-git clone https://github.com/f4lc0nd/scripts.git ~/dotfiles
-cd ~/dotfiles
+git clone https://github.com/f4lc0nd/scripts.git ~/scripts
+cd ~/scripts
 ```
